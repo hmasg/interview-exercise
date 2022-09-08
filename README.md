@@ -11,9 +11,10 @@
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-* Upload the file data.parquet as follow:
+* Upload the data.parquet file as follows:
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-* Syntax highlighting
+* Upload the HENI.dbc file as follows:
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
 * Toolbar for basic Markdown formatting
