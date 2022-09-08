@@ -15,7 +15,7 @@
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the HENI.dbc file as follows:
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Create the
 * Dark/Light mode
 * Toolbar for basic Markdown formatting
 * Supports multiple cursors
