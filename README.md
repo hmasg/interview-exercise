@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://assets.stickpng.com/images/62c719b5b44be1961554a6de.png" alt="Databricks" width="200"></a>
+  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="200"></a>
   <br>
   Markdownify
   <br>
