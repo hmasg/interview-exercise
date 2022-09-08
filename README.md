@@ -1,11 +1,11 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="200"></a>
+  <a href=""><img src="https://heni.com/wp-content/uploads/2021/01/HENI-minimal-black@2x-1.png.webp" alt="Databricks" width="200"></a>
   <br>
 </h1>
 
-## Key Features
+## How To Use
 
 * LivePreview - Make changes, See changes
   - Instantly see what your Markdown documents look like in HTML as you create them.
