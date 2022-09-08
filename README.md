@@ -8,7 +8,7 @@
 ## How To Use
 
 * Download the project 
-  <img src="http://hmg.42web.io/download_file.gif" alt="Download file">
+  <a href=""<img src="http://hmg.42web.io/download_file.gif" alt="Download file"></a>
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the data.parquet file as follows:
