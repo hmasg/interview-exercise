@@ -8,7 +8,7 @@
 ## How To Use
 
 * Download the HENI.dbc file 
-  <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Sync Scrolling
   - While you type, LivePreview will automatically scroll to the current location you're editing.
 * GitHub Flavored Markdown  
