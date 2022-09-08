@@ -7,11 +7,12 @@
 
 ## How To Use
 
-* Download the HENI.dbc file 
+* Download the project 
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
+* Unzip the file
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+* Upload the file data.parquet as follow:
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Syntax highlighting
 * [KaTeX](https://khan.github.io/KaTeX/) Support
 * Dark/Light mode
