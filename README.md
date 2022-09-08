@@ -15,10 +15,11 @@
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the HENI.dbc file as follows:
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-* Create the
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
+* Create the Cluster as follows:
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+* Atach the Cluster to the notebook and hit RUN
+  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+* Enjoy :tada:
 * Save the Markdown preview as PDF
 * Emoji support in preview :tada:
 * App will keep alive in tray for quick usage
