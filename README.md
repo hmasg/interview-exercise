@@ -7,7 +7,8 @@
 
 ## How To Use
 
-* Download the project 
+* Download the project <br>
+
   ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/download_file.gif)
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
