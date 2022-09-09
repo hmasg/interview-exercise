@@ -25,9 +25,4 @@
 ## What else we can do?:
 
 - Use Github actions to deploy to Databricks
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-- [showdown](http://showdownjs.github.io/showdown/)
-- [CodeMirror](http://codemirror.net/)
-- Emojis are taken from [here](https://github.com/arvida/emoji-cheat-sheet.com)
-- [highlight.js](https://highlightjs.org/)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/6.gif)
