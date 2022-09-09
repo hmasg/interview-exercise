@@ -10,12 +10,10 @@
 * Download the project <br>
   <a href=""><img src="https://github.com/hmasg/interview-exercise/blob/main/Images/1.gif" alt="Databricks" ></a>
   
-* Unzip the file
-  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the data.parquet file as follows:
-  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/2.gif)
 * Upload the HENI.dbc file as follows:
-  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/3.gif)
 * Create the Cluster as follows:
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Atach the Cluster to the notebook and hit RUN
