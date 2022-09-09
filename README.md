@@ -9,7 +9,7 @@
 
 * Download the project <br>
 
-  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/download_file.gif)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/download.gif)
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the data.parquet file as follows:
