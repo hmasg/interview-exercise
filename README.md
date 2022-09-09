@@ -8,7 +8,8 @@
 ## How To Use
 
 * Download the project <br>
-  <a href=""><img src="https://github.com/hmasg/interview-exercise/blob/main/Images/download_file.gif" alt="Databricks"></a>
+  <a href=""><img src="https://github.com/hmasg/interview-exercise/blob/main/Images/download_file.gif" alt="Databricks" width="600 height=800></a>
+  
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the data.parquet file as follows:
