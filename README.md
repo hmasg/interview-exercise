@@ -8,7 +8,7 @@
 ## How To Use
 
 * Download the project <br>
-  <a href=""><img src="https://heni.com/wp-content/uploads/2021/01/HENI-minimal-black@2x-1.png.webp" alt="Databricks" width="200"></a>
+  <a href=""><img src="download.gif" alt="Databricks"></a>
 * Unzip the file
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 * Upload the data.parquet file as follows:
