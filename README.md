@@ -22,9 +22,7 @@
   
 * Enjoy :tada:
 
-## Credits
-
-What else we can do?:
+## What else we can do?:
 
 - Use Github actions to deploy to Databricks
 - [Node.js](https://nodejs.org/)
