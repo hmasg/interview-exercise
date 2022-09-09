@@ -25,4 +25,4 @@
 ## What else we can do?:
 
 - Use Github actions to deploy to Databricks
-  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/6.gif)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/6.png)
