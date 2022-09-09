@@ -15,7 +15,7 @@
 * Upload the HENI.dbc file as follows:
   ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/3.gif)
 * Create the Cluster as follows:
-  ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+  ![screenshot](https://github.com/hmasg/interview-exercise/blob/main/Images/4.gif)
 * Atach the Cluster to the notebook and hit RUN
   ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
   
